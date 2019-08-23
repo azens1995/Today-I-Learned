@@ -3,4 +3,4 @@ This is the collection of the small things that I learn in the daily basis while
 
 ## Android
 
-- [Click Listener in the Recyclerview Items with DataBinding] (https://github.com/azens1995/Today-I-Learned/blob/master/Android/onclick_databinding.md)
+* [Click Listener in the Recyclerview Items with DataBinding] (/Android/onclick_databinding.md)
