@@ -21,13 +21,9 @@ public interface CategoryClickListener {
 ```
 <TextView
     ...
-<<<<<<< HEAD
+
     android:onClick="@{() -> categoryClick.onCategoryClick(category) }"
-=======
-    android:onClick="@{() -> }"
->>>>>>> b255fa291d6cf09dca57dfeffe95bf05cdc57ec4
-    ...
-    >
+    ... >
 ```
 
 4. Create a variable for the `Context` and,  constructor for the `RecyclerView Adapter` that takes context as the parameter.
